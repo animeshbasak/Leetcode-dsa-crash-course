@@ -104,5 +104,3 @@ while maintaining the relative order of the remaining characters. For example, "
 // };
 // console.log(sortedSquares([-4, -1, 0, 3, 10]))
 
-/*2. Sliding window */
-// -> Subarrays
